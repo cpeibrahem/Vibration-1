@@ -5,7 +5,7 @@
 Imagination
 
 ### Team Members:
-1- Abdullah Al Habi
+1- Dr.Abdullah Alhebi
 2- Asma Abdulsaamad
 3- ibrahim saber
 
@@ -23,4 +23,8 @@ The Interactive AI art is represented in the presence of low amount of light, lo
 
 ### Project Video:
 [vibration](https://youtu.be/k1bC2KbdlVI)
+
+
+
+https://user-images.githubusercontent.com/46464413/138403956-23d6062b-dd2d-4bcf-9c96-ec41b64ba1ed.mp4
 
